@@ -16,3 +16,19 @@
   
 </p>
 </details>
+
+
+
+<details>
+  <summary>Regging screenshots</summary>
+<p>
+  
+![](Images/Rigging%20screenshots/1.PNG) 
+![](Images/Rigging%20screenshots/2.PNG) 
+![](Images/Rigging%20screenshots/3.PNG) 
+![](Images/Rigging%20screenshots/4.PNG) 
+![](Images/Rigging%20screenshots/5.PNG) 
+  
+ </p>
+</details>
+

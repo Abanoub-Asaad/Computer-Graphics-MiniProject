@@ -38,6 +38,6 @@ https://user-images.githubusercontent.com/48348589/120059965-232f7d00-c055-11eb-
 #### Running State Animation
 https://user-images.githubusercontent.com/48348589/120064068-c8088500-c06a-11eb-80c5-1e60d9109b40.mp4
 
-
+#### Grouping Model Different Animations
 
 

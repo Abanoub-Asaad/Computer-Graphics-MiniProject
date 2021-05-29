@@ -32,3 +32,9 @@
  </p>
 </details>
 
+#### Idle State Animation
+https://user-images.githubusercontent.com/48348589/120059965-232f7d00-c055-11eb-95ca-c8dc2e104c16.mp4
+
+
+
+

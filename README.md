@@ -39,5 +39,7 @@ https://user-images.githubusercontent.com/48348589/120059965-232f7d00-c055-11eb-
 https://user-images.githubusercontent.com/48348589/120064068-c8088500-c06a-11eb-80c5-1e60d9109b40.mp4
 
 #### Grouping Model Different Animations
+https://user-images.githubusercontent.com/48348589/120065212-6d722780-c070-11eb-8e74-f56d6d4415ff.mp4
+
 
 

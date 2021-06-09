@@ -1,4 +1,4 @@
-# Computer-Graphics-Project
+# Computer-Graphics-MiniProject
 
 <details>
   <summary>Modelling screenshots</summary>

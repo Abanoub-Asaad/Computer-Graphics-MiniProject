@@ -1,5 +1,5 @@
 # Computer-Graphics-MiniProject
-A game animated character with animation and music using Blender.
+A game character with animation and music using Blender.
 
 # Step by Step Screenshots 
 <details>
